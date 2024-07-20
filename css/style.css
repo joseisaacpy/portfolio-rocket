@@ -4,7 +4,7 @@
 }
 /* Corpo */
 body {
-  background: url(./assets/bg-mobile.jpg) no-repeat top center/cover;
+  background: url(../assets/bg-mobile.jpg) no-repeat top center/cover;
 }
 body * {
   font-family: "Inter";
