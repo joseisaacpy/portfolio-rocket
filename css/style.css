@@ -61,7 +61,7 @@ ul li a {
   width: 100%;
 }
 ul li:hover {
-  background-color: rgb(67, 0, 162);
+  background-color: rgba(161, 145, 182, 0.4);
 }
 ul p {
   padding-top: 25px;
